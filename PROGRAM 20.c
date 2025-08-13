@@ -1,4 +1,4 @@
-20.Calculate area of a triangle.A=H*L/2
+
 #include <stdio.h>
 int main()
 {
@@ -11,3 +11,4 @@ int main()
 
     return 0;
 }
+
