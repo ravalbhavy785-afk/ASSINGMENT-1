@@ -1,4 +1,4 @@
-2. Subtract two numbers
+
 #include<stdio.h>
 int main()
 {
@@ -9,3 +9,4 @@ c = a-b;
 printf("subtraction of %d and %d is %d\n", a, b, (a-b));
 return 0;
 }
+
