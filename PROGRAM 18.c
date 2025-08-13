@@ -1,4 +1,4 @@
-18. Calculate area & perimeter of a rectangle. A=L*B,P=2(L+B)
+
 #include <stdio.h>
 int main()
 {
@@ -12,3 +12,4 @@ int main()
 
     return 0;
 }
+
