@@ -1,4 +1,4 @@
-6. Convert hours into minutes
+
 #include<stdio.h>
 int main()
 {
@@ -10,3 +10,4 @@ printf("The time played in minutes is:%d\n",minutes);
 
 return 0;
 }
+
