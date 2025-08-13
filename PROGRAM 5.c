@@ -1,4 +1,4 @@
-5. Add,multiply,subtract and divide two numbers
+
 #include<stdio.h>
 int main()
 {
@@ -21,3 +21,4 @@ printf("The result of multiplication is :%d\n",multiplication);
 printf("The result of division is :%d\n",division);
 return 0;
 }
+
