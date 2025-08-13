@@ -1,4 +1,4 @@
-16. Calculate interest where I - PRN/100
+
 #include <stdio.h>
 int main()
 {
@@ -11,3 +11,4 @@ int main()
 
     return 0;
 }
+
