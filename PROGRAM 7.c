@@ -1,4 +1,4 @@
-7. Convert minutes into hours
+
 #include<stdio.h>
 int main()
 {
@@ -10,3 +10,4 @@ n=n/60;
 printf("\The time in hours");
 
 }
+
