@@ -1,4 +1,4 @@
-10. Convert dollars into pound where 1$ = 48Rs. And 1 pound = 70 Rs.
+
 #include <stdio.h>
 int main()
  {
@@ -13,4 +13,5 @@ int main()
 
     return 0;
 }
+
 
