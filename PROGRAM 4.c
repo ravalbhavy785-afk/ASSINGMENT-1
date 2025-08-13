@@ -1,4 +1,4 @@
-4.Divide two numbers
+
 #include<stdio.h>
 int main()
 {
@@ -9,3 +9,4 @@ if( b !=0)
 printf("Division of %d and %d is %d\n", a, b, a/b);
 return 0;
 }
+
