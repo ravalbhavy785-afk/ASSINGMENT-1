@@ -1,4 +1,4 @@
-12. Convert kgs into grams
+
 #include <stdio.h>
 int main()
 {
@@ -10,3 +10,4 @@ int main()
 
     return 0;
 }
+
