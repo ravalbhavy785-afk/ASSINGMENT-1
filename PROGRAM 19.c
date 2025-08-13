@@ -1,4 +1,4 @@
-19.Calculate area of a circle. A=22/7*R*R
+
 #include <stdio.h>
 int main()
  {
@@ -11,3 +11,4 @@ int main()
 
     return 0;
 }
+
