@@ -1,4 +1,4 @@
-17. Calculate area & perimeter of a square.A=L^2,P=4L
+
 #include <stdio.h>
 int main()
 {
@@ -12,3 +12,4 @@ int main()
 
     return 0;
 }
+
