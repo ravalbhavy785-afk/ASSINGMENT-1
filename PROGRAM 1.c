@@ -1,4 +1,4 @@
-1.Add two numbers
+
 #include<stdio.h>
 int main()
 {
@@ -8,3 +8,4 @@ scanf("%d %d",&a,&b);
 int sum =a+b;
 printf("%d is the sum",sum);
 }
+
