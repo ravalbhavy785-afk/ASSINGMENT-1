@@ -1,4 +1,4 @@
-14. Convert celcius into Fahrenheit F = (9/5 * C)+32
+
 #include <stdio.h>
 int main()
 {
@@ -10,3 +10,4 @@ int main()
 
     return 0;
 }
+
