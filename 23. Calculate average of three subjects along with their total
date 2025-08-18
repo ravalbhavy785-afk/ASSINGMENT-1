@@ -1,5 +1,6 @@
 
 #include<stdio.h>
+
 int main()
 {
 int s1,s2,s3,total;
@@ -15,3 +16,4 @@ printf("Total= %d\nAverage= %f",total,average);
 
 return 0;
 }
+
